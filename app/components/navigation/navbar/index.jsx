@@ -36,7 +36,7 @@ export default function Navbar() {
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href='#' className='hover:text-red-600'>
+                                    <Link href='/registration' className='hover:text-red-600'>
                                         TALENT REGISTRATION
                                     </Link>
                                 </li>
