@@ -14,7 +14,7 @@ export default function Sidebar() {
                                 </Link>
                             </li>
                             <li>
-                                <Link href='/about-us' className='hover:text-red-600'>
+                                <Link href='/about' className='hover:text-red-600'>
                                     ABOUT US
                                 </Link>
                             </li>
@@ -29,7 +29,7 @@ export default function Sidebar() {
                                 </Link>
                             </li>
                             <li>
-                                <Link href='#' className='hover:text-red-600'>
+                                <Link href='/registration' className='hover:text-red-600'>
                                     TALENT REGISTRATION
                                 </Link>
                             </li>

@@ -21,7 +21,7 @@ export default function Navbar() {
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href='/about-us' className='hover:text-red-600'>
+                                    <Link href='/about' className='hover:text-red-600'>
                                         ABOUT US
                                     </Link>
                                 </li>
