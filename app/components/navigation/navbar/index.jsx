@@ -1,7 +1,8 @@
 import React from 'react'
 import Link from 'next/link'
+import Hamburger from 'hamburger-react'
 
-export default function Navbar() {
+export default function Navbar( { isOpen, toggle, setIsOpen }) {
     return (
         <div className=''>
             <div className='  bg-white shadow-lg shadow-black/40 w-full text-black'>
@@ -11,6 +12,10 @@ export default function Navbar() {
 
                         <div>
                             Logo
+                        </div>
+
+                        <div className='flex md:hidden'>
+                            <Hamburger toggled={isOpen} toggle={setIsOpen} />
                         </div>
 
                         <div className='md:flex hidden'>

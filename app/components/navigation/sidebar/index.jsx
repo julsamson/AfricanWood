@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 
-export default function Sidebar() {
+export default function Sidebar( { toggle, isOpen}) {
     return (
         <div className='container mx-auto'>
             <div className='bg-white text-black'>
@@ -29,7 +29,7 @@ export default function Sidebar() {
                                 </Link>
                             </li>
                             <li>
-                                <Link href='/registration' className='hover:text-red-600'>
+                                <Link href='/registrationz' className='hover:text-red-600'>
                                     TALENT REGISTRATION
                                 </Link>
                             </li>
