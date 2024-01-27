@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 
-export default function Sidebar( { toggle, isOpen}) {
+export default function Sidebar() {
     return (
         <div className='container mx-auto'>
             <div className='bg-white text-black'>
