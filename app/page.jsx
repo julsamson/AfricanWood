@@ -23,22 +23,22 @@ export default function page() {
         <div className='my-4'>
           <div className=''>
             <Link href='#' className=''>
-              <h1 className='text-black bg-white w-40 flex justify-center p-7 rounded-3xl my-2'>
+              <h1 className='button text-black bg-white w-40 flex justify-center p-7 rounded-3xl my-2'>
                 Musicians
               </h1>
             </Link>
             <Link href='#' className=''>
-              <h1 className='text-black bg-white w-40 flex justify-center p-7 rounded-3xl my-2'>
+              <h1 className='button text-black bg-white w-40 flex justify-center p-7 rounded-3xl my-2'>
                 Producers
               </h1>
             </Link>
             <Link href='#' className=''>
-              <h1 className='text-black bg-white w-40 flex justify-center p-7 rounded-3xl my-2'>
+              <h1 className='button text-black bg-white w-40 flex justify-center p-7 rounded-3xl my-2'>
                 Dancers
               </h1>
             </Link>
             <Link href='#' className=''>
-              <h1 className='text-black bg-white w-40 flex justify-center p-7 rounded-3xl my-2'>
+              <h1 className='button text-black bg-white w-40 flex justify-center p-7 rounded-3xl my-2'>
                 Models
               </h1>
             </Link>
