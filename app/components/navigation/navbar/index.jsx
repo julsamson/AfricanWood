@@ -90,7 +90,7 @@ export default function Navbar() {
                                 <nav className='container mx-auto py-[12px] px-5'>
                                     <ul className='space-y-4 mb-2'>
                                         <li>
-                                            <Link href='' className='hover:text-red-600'>
+                                            <Link href='/' className='hover:text-red-600'>
                                                 HOME
                                             </Link>
                                         </li>
