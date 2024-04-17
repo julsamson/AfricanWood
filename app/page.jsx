@@ -17,11 +17,10 @@ export default function page() {
 
           {/* new part page  */}
 
-
           <div className='lg:w-[800px] lg:h-[400px] md:w-[600px] w-full h-40 min-[425px]:w-96 min-[425px]:h-60 md:h-96 min-[425px]:rounded-3xl bg-white text-black flex justify-center items-center'>
-             <div>
+            <div>
               The News
-             </div>
+            </div>
           </div>
         </div>
 

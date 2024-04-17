@@ -15,6 +15,8 @@ export default function About() {
             Fountain
           </span>
         </div>
+
+        {/* description on fountain */}
         <div className='space-y-4 my-5'>
           <div>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis eligendi earum ullam ea deserunt autem beatae optio atque nobis totam, ducimus ab repellendus nemo similique necessitatibus quod eveniet! Atque, rem!
@@ -28,6 +30,13 @@ export default function About() {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi nostrum deleniti autem non sit debitis doloremque assumenda veritatis asperiores, vel, tempore consequatur, ut adipisci quam. Beatae quasi repellat architecto debitis.
           </div>
         </div>
+
+        {/* management team  */}
+
+        <div>
+
+        </div>
+
       </div>
       
       <Footer />
